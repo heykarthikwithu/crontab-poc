@@ -1,0 +1,2 @@
+
+0 12 * * * /var/www/crontab-poc/clean-files.sh -p /var/www/crontab-poc/files -d 30 >/tmp/cron-stdout.log 2>/tmp/cron-stderr.log

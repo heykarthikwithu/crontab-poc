@@ -1,0 +1,5 @@
+# phpstorm data
+.idea/
+
+# files
+files/*
